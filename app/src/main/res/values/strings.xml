@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quản lý Sinh viên</string>
+    <string name="search_hint">Tìm kiếm theo tên hoặc MSSV</string>
+    <string name="student_detail">Chi tiết sinh viên</string>
+    <string name="no_data">Không có dữ liệu</string>
+    <string name="loading">Đang tải dữ liệu...</string>
+    <string name="error_connection">Lỗi kết nối mạng</string>
+</resources>
